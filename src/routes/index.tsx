@@ -31,7 +31,7 @@ function Nav() {
       <div className="mx-auto max-w-7xl px-5 sm:px-8 h-16 flex items-center justify-between">
         <a href="#top" className="flex items-center gap-2 font-serif text-lg font-semibold tracking-tight text-forest-deep">
           <Sprout className="h-5 w-5 text-forest" strokeWidth={2} />
-          Harry Green
+          Harry Green Gardening
         </a>
         <nav className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
           <a href="#services" className="hover:text-forest transition-colors">Services</a>
